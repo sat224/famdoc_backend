@@ -1,3 +1,5 @@
 /node_modules
 /.env
 /*.rest
+/.DS_Store
+/data
